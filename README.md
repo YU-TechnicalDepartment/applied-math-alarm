@@ -2,9 +2,7 @@
 
 ### YouTube動画
 
-<a href="https://youtu.be/SaouHglJTD0"><img width="720" alt="thumbnail" src="https://i9.ytimg.com/vi/SaouHglJTD0/maxresdefault.jpg"></a>
-https://youtu.be/SaouHglJTD0
-
+[![サムネイル](https://img.youtube.com/vi/SaouHglJTD0/mqdefault.jpg)](https://www.youtube.com/watch?v=SaouHglJTD0)
 ### 問題パターン
 
 `pages/index.tsx`内17行目にある、`handleClick`中の`router.push()`の値を変更することで問題形式を切り替えられます。
