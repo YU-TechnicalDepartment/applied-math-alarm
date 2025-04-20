@@ -18,7 +18,7 @@ const Home: NextPage<AudioRefs> = ({chime, start}) => {
     chime.current.loop = true
     chime.current.play()
     start.current.play()
-    router.push('/integral')
+    router.push('/determinant')
   }
 
   const [isFlash, setFlash] = useState(false);
